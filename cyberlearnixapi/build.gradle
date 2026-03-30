@@ -1,0 +1,13 @@
+plugins {
+    id 'base'
+}
+
+group = 'com.cyberlearnix'
+version = '0.0.1-SNAPSHOT'
+
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
+
